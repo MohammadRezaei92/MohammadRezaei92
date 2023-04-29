@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Rezaei
 - 👀 I’m interested in android, kotlin, open source projects, internet of things.
-- 🌱 I’m currently learning kotlin coroutines and flow.
+- 🌱 I’m currently learning Jetpack compose, Kotlin Coroutines, and Kotlin Flows.
 - 💞️ I’m looking to collaborate on cool open source projects in my field.
 - 📫 How to reach me [My Telegram account](https://t.me/syrix)
 
